@@ -18,9 +18,9 @@ console.log(greetign);
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Answer: ?
+#### Answer: A
 
-<i>Write your explanation here</i>
+<i>assign an empty object to it, and then log the empty object to the console. The output will be {}.</i>
 
 </p>
 </details>
@@ -43,9 +43,10 @@ sum(1, "2");
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Answer: ?
+#### Answer: C
 
-<i>Write your explanation here</i>
+<i>JavaScript attempts to convert "2" to a number, resulting in 2.
+Then, it performs the addition 1 + 2, which results in the string "12".</i>
 
 </p>
 </details>
@@ -69,9 +70,9 @@ console.log(food);
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Answer: ?
+#### Answer: A
 
-<i>Write your explanation here</i>
+<i>when you log the food array to the console, it will remain unchanged.</i>
 
 </p>
 </details>
@@ -94,9 +95,9 @@ console.log(sayHi());
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Answer: ?
+#### Answer: D
 
-<i>Write your explanation here</i>
+<i>it will result in an error because you haven't provided a value for the name parameter, and the function expects one.</i>
 
 </p>
 </details>
@@ -111,7 +112,7 @@ nums.forEach((num) => {
   if (num) count += 1;
 });
 
-console.log(count);
+console.log(count); 
 ```
 
 - A: 1
@@ -122,9 +123,9 @@ console.log(count);
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Answer: ?
+#### Answer: C
 
-<i>Write your explanation here</i>
+<i>the count variable contains the value 3</i>
 
 </p>
 </details>
